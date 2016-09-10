@@ -1,5 +1,0 @@
-[
-  % Syntax
-  macro(eglSyntax(efpl)),
-  macro(eslSyntax(efpl))
-].

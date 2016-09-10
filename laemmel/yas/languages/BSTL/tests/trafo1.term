@@ -1,4 +1,0 @@
-sequ( sequ(
-	renameSym(zero, z),
-	renameSym(succ, s)),
-	renameSort(tree, bintree) ).

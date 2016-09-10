@@ -1,9 +1,0 @@
-{
-  "pred": {
-    "if": {
-      "x": { "iszero": { "zero": { } } },
-      "y": { "succ": { "succ": { "zero": { } } } },
-      "z": { "zero": { } }
-    }
-  }
-}

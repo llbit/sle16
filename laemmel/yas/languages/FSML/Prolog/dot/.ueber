@@ -1,6 +1,0 @@
-[
-  function(fsmToDgl, [fsml(term)], [dgl(term)], fsmToDgl, []),
-  mapsTo(fsmToDgl, ['../../sample.term'], ['sample.term']),
-  macro(ppSample(dgl))
-].
-

@@ -1,3 +1,0 @@
-initial state x {
-  ping/pong -> x;
-}

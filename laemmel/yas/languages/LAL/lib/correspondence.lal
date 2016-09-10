@@ -1,3 +1,0 @@
-reuse composition [ L |-> L1, Any |-> Any1 ]
-reuse composition [ L |-> L2, Any |-> Any2 ] 
-relation correspondsTo : L1 # L2

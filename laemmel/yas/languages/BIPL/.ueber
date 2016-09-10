@@ -1,4 +1,0 @@
-[
-    macro(eglSyntax(bipl)),
-    macro(eslSyntax(bipl))
-].

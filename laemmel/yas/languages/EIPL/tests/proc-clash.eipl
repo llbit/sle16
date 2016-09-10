@@ -1,5 +1,0 @@
-begin
-  proc p { }
-  proc p { }
-  ;
-end

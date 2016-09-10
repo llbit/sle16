@@ -1,3 +1,0 @@
-aspect ForExposingInDrAST {
-    syn boolean IdUse.isUndeclared() = decl().isUnknown();
-}

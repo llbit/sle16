@@ -1,5 +1,0 @@
-[
-  macro(parseFile('sample-with-signatures.efpl')),
-  macro(parseFile('sample-without-signatures.efpl')),
-  macro(parseFile('sample-without-polymorphism.efpl'))
-].

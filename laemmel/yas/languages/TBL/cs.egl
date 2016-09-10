@@ -1,2 +1,0 @@
-world : { person }* ;
-person : name { '->' name }? ;

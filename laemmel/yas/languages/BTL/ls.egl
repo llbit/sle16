@@ -1,2 +1,0 @@
-layout : { space }+ ;
-layout : '//' { { end_of_line }~ }* end_of_line ;

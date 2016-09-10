@@ -1,9 +1,0 @@
-[
-
-  macro(mmlSyntax(exprRelaxed)),
-  macro(graphSample(exprRelaxed)),
-  mapsTo(relax, ['../mm.graph'], ['mm.graph']),
-  mapsTo(recardinalize, ['mm.graph', '../mm.graph', 'sample.graph'], ['../sample.graph']),
-  mapsTo(recardinalize, ['../mm.graph', 'mm.graph', '../sample.graph'], ['sample.graph'])
-
-].

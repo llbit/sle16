@@ -1,4 +1,0 @@
-qstring : quote { { quote }~ }+ quote ;
-name : { alpha }+ ;
-layout : { space }+ ;
-

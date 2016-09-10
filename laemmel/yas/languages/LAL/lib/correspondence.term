@@ -1,1 +1,0 @@
-[reuse([composition],[ ('L','L1'), ('Any','Any1')]),reuse([composition],[ ('L','L2'), ('Any','Any2')]),relation(correspondsTo,[ref('L1'),ref('L2')])].

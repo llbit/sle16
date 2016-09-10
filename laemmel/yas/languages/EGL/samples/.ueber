@@ -1,4 +1,0 @@
-[
-  macro(parseFile('ambiguity.egl'))
-].
-

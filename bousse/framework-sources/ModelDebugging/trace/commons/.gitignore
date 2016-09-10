@@ -1,8 +1,0 @@
-*target*
-*.class
-**/bin/**
-**/tmp/**
-**/tmp/**/*
-**/xtend-gen/**
-**/.metadata/**
-**/model_inputs/*.ecorediag

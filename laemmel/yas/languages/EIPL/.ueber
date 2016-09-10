@@ -1,5 +1,0 @@
-[
-  macro(eglSyntax(eipl)),
-  macro(eslSyntax(eipl)),
-  macro(parseSample(eipl))
-].

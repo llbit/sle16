@@ -1,1 +1,0 @@
-[type(world,star(sort(person))),type(person,tuple([string,option(string)]))].
